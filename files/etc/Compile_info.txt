@@ -1,0 +1,6 @@
+LEDE r5530-085967f774 / 2017-12-16 12:07
+---
+main      2017-12-16 085967f at91: create sdcard image for sama5
+luci      2017-12-15 68cfa21 Merge pull request #1476 from dibdot/trav
+packages  2017-12-16 2e62b5a Merge pull request #5118 from jow-/cgi-io
+routing   2017-12-16 96bcf8f Merge pull request #281 from stepet92/mcp
